@@ -1,7 +1,7 @@
 // Copyright (c) 2020 Marcus A. Mosley All rights reserved.
 //
 // Created by Marcus A. Mosley
-// Created on September 2020
+// Created on October 2020
 // This program finds the average of three integers,
 //     only if they are between 0-100 inclusive
 
